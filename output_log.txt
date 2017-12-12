@@ -1,0 +1,43 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4549
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\BEOMJOO\Desktop\MIT&KAIST co-op project\test!!!!!\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\BEOMJOO\Desktop\MIT&KAIST co-op project\test!!!!!\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\BEOMJOO\Desktop\MIT&KAIST co-op project\test!!!!!\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\BEOMJOO\Desktop\MIT&KAIST co-op project\test!!!!!\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\BEOMJOO\Desktop\MIT&KAIST co-op project\test!!!!!\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\BEOMJOO\Desktop\MIT&KAIST co-op project\test!!!!!\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\BEOMJOO\Desktop\MIT&KAIST co-op project\test!!!!!\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\BEOMJOO\Desktop\MIT&KAIST co-op project\test!!!!!\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\BEOMJOO\Desktop\MIT&KAIST co-op project\test!!!!!\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\BEOMJOO\Desktop\MIT&KAIST co-op project\test!!!!!\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.169 seconds
+Platform assembly: C:\Users\BEOMJOO\Desktop\MIT&KAIST co-op project\test!!!!!\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\BEOMJOO\Desktop\MIT&KAIST co-op project\test!!!!!\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.028034 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.942680 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 469.
+Total: 0.374158 ms (FindLiveObjects: 0.046186 ms CreateObjectMapping: 0.027525 ms MarkObjects: 0.281318 ms  DeleteObjects: 0.018194 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.576633 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 459.
+Total: 0.271054 ms (FindLiveObjects: 0.031724 ms CreateObjectMapping: 0.022393 ms MarkObjects: 0.195476 ms  DeleteObjects: 0.020527 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1bc4 -> priority: 1 
+  Thread -> id: 510 -> priority: 1 
